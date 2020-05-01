@@ -7,6 +7,4 @@ Unless you are interested in the latest rules being under construction, it is be
 
 If you intent to derive or to sell either a text, a product or a software from this work, then read the [**LICENSE**](./docs/LICENSE.md) document. 
 
-![](C:\Users\leandre\Documents\GitHub\bevri\pictures\Bevri-logo.png)
-
-This is the current BEVRI logo.
+![](./pictures/Bevri-logo.png)
