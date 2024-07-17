@@ -1,4 +1,4 @@
-# bevri = Unexpected Space Cargo = U Space Cargo
+# bevri = Unexpected Space Cargo
 BEVRI describes the rules of a board game about a ghost space cargo.
 
 > BEVRI, the ghost cargo of the ancient TARCI civilization, randomly crosses the spatial borders of TERDI, your world. Competing space companies are equipping their corvettes to unlock the defenses of the cargo containers and capture their resources, and ideally find the precious TARCI crystals.
